@@ -1,2 +1,5 @@
 # Unsplash-Clone
-Responsive multipage Unsplash clone website.Include Photo page,Illustration page .Built with HTML and CSS
+A clone of Unsplash website, consisting of the HomePage, and the 'Illustrations' page.
+by
+Aditya Patel
+Roll No.:25MF10013
